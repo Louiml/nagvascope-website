@@ -1,0 +1,46 @@
+@import url('https://fonts.cdnfonts.com/css/cross-led-tfb');
+*{
+  font-family: 'Cross led tfb bold';
+}
+.header{
+  background-color: rgb(29, 30, 48);
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  border-radius: 0 0 25px 25px;
+}
+.title{
+  color: rgb(84, 90, 172);
+  font-size: 25px;
+  letter-spacing: 15px;
+}
+.btn{
+  margin-left: 35px;
+  background-color: rgb(119, 148, 212);
+  border: solid 5px rgb(145, 172, 231);
+  color: white;
+  border-radius: 0 0 15px 15px;
+  transition: 0.3s;
+  font-size: 20px;
+}
+.btn:hover{
+  margin-left: 35px;
+  background-color: rgb(145, 172, 231);
+  border: solid 5px rgb(119, 148, 212);
+  color: #e4e4e4;
+  border-radius: 0 0 15px 15px;
+  font-size: 20px;
+}
+.credit{
+  position: absolute;
+  left: 1%;
+  color: white;
+  bottom: 0;
+}
+.heart{
+  color: pink;
+  font-size: 30px;
+}
+.nameteam{
+  color: cyan;
+}

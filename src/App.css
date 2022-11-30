@@ -1,0 +1,56 @@
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #242d3f;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+.description{
+  /* margin-top: 7%; */
+  font-size: 25px;
+  font-family: 'minecraftia';
+  /* margin-left: 1%; */
+  color: rgb(121, 235, 219);
+}
+.smart-telescope-text{
+  color: rgb(96, 200, 204);
+}
+.description1{
+  /* margin-top: 10%; */
+  font-size: 20px;
+  font-family: 'minecraftia';
+  /* margin-left: -33%; */
+  color: rgb(187, 255, 246);
+}
+.descriptionBTN{
+  font-size: 20px;
+  font-family: 'minecraftia';
+  color: #82f8e8;
+}
+.description2{
+  /* margin-top: 12.5%; */
+  font-size: 20px;
+  font-family: 'minecraftia';
+  /* margin-left: -31%; */
+  color: rgb(187, 255, 246);
+}
+.description3{
+  /* margin-top: 15%; */
+  font-size: 20px;
+  font-family: 'minecraftia';
+  /* margin-left: -48%; */
+  color: rgb(187, 255, 246);
+}
+.descriptionSubtext{
+  font-size: 17px;
+  font-family: 'minecraftia';
+  color: rgb(127, 199, 189);
+}
